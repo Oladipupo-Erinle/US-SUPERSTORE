@@ -67,9 +67,9 @@ This helps will help assess the efficiency of the business in generating profits
 
 **_The Store maintained a uniform profit margin across the years_**
 
-3.	# Sales Growth Rate:
+3.	# Sales Growth Rate
   
-This KPI tracks the rate of sales growth over a specific period, showing the company's performance over time.
+ This KPI tracks the rate of sales growth over a specific period, showing the company's performance over time.
 	
 Sales Growth Rate = ((Current Period Sales - Previous Period Sales) / Previous Period Sales) * 100
                   **($733,215-$484,247)/$484,247 = 51%**
