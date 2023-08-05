@@ -5,8 +5,9 @@ The report centers around a US Superstore, offering a comprehensive review of it
 
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
-	Sales Performance Analysis
+	**Sales Performance Analysis**
 •	Sales trends across various months-This will be done with the use of a table and line chart.
+
 •	Top and Bottom 10 sales-generating states- This will be done with the use of a column chart
 
 3.	Profitability Performance Analysis
