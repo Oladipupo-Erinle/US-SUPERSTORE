@@ -80,7 +80,7 @@ The application of pivot tables and charts served as a useful means of manipulat
 
 1.	# Profitability Performance Analysis
 
- **Sales Performance Analysis**
+ *Sales Performance Analysis*
  
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
 
