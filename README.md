@@ -65,7 +65,7 @@ This helps will help assess the efficiency of the business in generating profits
 
 ![ ](PM.png)
 
-The Store maintained a uniform profit margin across the years 
+**_The Store maintained a uniform profit margin across the years_**
 
 3.	# Sales Growth Rate: This KPI tracks the rate of sales growth over a specific period, showing the company's performance over time. 
 Sales Growth Rate = ((Current Period Sales - Previous Period Sales) / Previous Period Sales) * 100
@@ -78,7 +78,10 @@ The application of pivot tables and charts served as a useful means of manipulat
 1.	# Profitability Performance Analysis
 
  **Sales Performance Analysis**
-It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions. I focused on deriving sales trends across months, the top and bottom 10 sales-generating states
+It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
+
+I focused on deriving sales trends across months, the top and bottom 10 sales-generating states
+
 The steps applied are:
 
 # Sales trends across various months
