@@ -6,28 +6,29 @@ The report centers around a US Superstore, offering a comprehensive review of it
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
 	
-1.  # Sales Performance Analysis**
+  # Sales Performance Analysis
  	•	Sales trends across various months-This will be done with the use of a table and line chart.
 
 	•	Top and Bottom 10 sales-generating states- This will be done with the use of a column chart
 
-2. # Profitability Performance Analysis
-•	Profit trends across various months by states-This will be done with the use of a table and line chart.
-
-3. # Regional Analysis Review
-•	Sales Performance by region review
-
-•	Demand by region- region with high and low demand
-
-4. # Means of shipment preferred by customers
+ # Profitability Performance Analysis
    
-5. # Category review
+	•	Profit trends across various months by states-This will be done with the use of a table and line chart.
+
+# Regional Analysis Review
+	.	Sales Performance by region review
+
+	.	Demand by region- region with high and low demand
+
+ # Means of shipment preferred by customers
    
-•	Best performing Category by sales
+ # Category review
+   
+	.	Best performing Category by sales
 
-•	Best performing Sub-category
+	.	Best performing Sub-category
 
- 6. # Top 10 cities by Demand/Purchase
+  # Top 10 cities by Demand/Purchase
     
 	
 # Skill/Concepts Demonstrated
