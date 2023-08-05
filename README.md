@@ -60,7 +60,7 @@ The steps applied are:
 
 In terms of sales, November achieved the highest sales of **$352,461**, closely followed by December’s **$325,294**, whereas February saw the lowest performance recording a sales figure of **$59,751**. From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
 
-#Top and Bottom 10 sales-generating states
+# Top and Bottom 10 sales-generating states
 
 Relying solely on monthly sales performance is insufficient to gauge the financial strength of the store. To achieve our objective, it is essential to analyze sales by location. Therefore, I examined the top and bottom 10 sales-generating states:
 
