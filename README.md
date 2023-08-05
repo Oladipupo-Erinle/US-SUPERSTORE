@@ -173,14 +173,14 @@ Also, exploring targeted marketing initiatives, adjusting pricing strategies, an
 in the southern region.
 
 2.	# Means of shipment preferred by customers
-3	
+	
 ![](SHIPMODE.png)
 
 Based on the analysis, one can say that customers show a preference for the standard class mode of shipment, with 5,968 quantities delivered through this method. 
 
 On the other hand, they appear less eager to opt for the same-day mode, using it for only 543 quantities, and prefer waiting
 
-5.	# Category review
+3.	# Category review
 
 •	Best performing Category by sales and quantity
 
