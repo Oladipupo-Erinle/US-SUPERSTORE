@@ -14,7 +14,7 @@ The project intends to answer pertinent business questions that will share more 
     effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions,
     and implementing improvements to enhance overall profitability. I focused on the following:
 
-A.	# Sales Performance Analysis
+A.	**Sales Performance Analysis**
 
  	•	Sales trends across various months
   
