@@ -23,7 +23,6 @@ The project intends to answer pertinent business questions that will share more 
 •	Best performing Sub-category
 10.Top 10 cities by Demand/Purchase
     
-
 	
 # Skill/Concepts Demonstrated
 1.	Data Management
