@@ -5,24 +5,29 @@ The report centers around a US Superstore, offering a comprehensive review of it
 
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
-	**Sales Performance Analysis**
-•	Sales trends across various months-This will be done with the use of a table and line chart.
+	
+1.  # Sales Performance Analysis**
+ 	•	Sales trends across various months-This will be done with the use of a table and line chart.
 
-•	Top and Bottom 10 sales-generating states- This will be done with the use of a column chart
+	•	Top and Bottom 10 sales-generating states- This will be done with the use of a column chart
 
-3.	Profitability Performance Analysis
+2. # Profitability Performance Analysis
 •	Profit trends across various months by states-This will be done with the use of a table and line chart.
 
-5.	 Regional Analysis Review
+3. # Regional Analysis Review
 •	Sales Performance by region review
+
 •	Demand by region- region with high and low demand
 
-7.	Means of shipment preferred by customers
+4. # Means of shipment preferred by customers
    
-9.	Category review
+5. # Category review
+   
 •	Best performing Category by sales
+
 •	Best performing Sub-category
-10.    Top 10 cities by Demand/Purchase
+
+ 6. # Top 10 cities by Demand/Purchase
     
 	
 # Skill/Concepts Demonstrated
@@ -41,6 +46,7 @@ Give a brief overview of the dataset you’re working on
 
 ## Business Solutions and Insights Generated
 The application of pivot tables and charts served as a useful means of manipulating data to derive meaningful insights that addressed the Business problems that are critical to the management thereby giving clarity and solutions to them. The following business problems were addressed:
+
 1.	# Sales Performance Analysis
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions. I focused on deriving sales trends across months, the top and bottom 10 sales-generating states
 The steps applied are:
