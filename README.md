@@ -1,13 +1,14 @@
 # US-SUPERSTORE
 ## Introduction
 The report centers around a US Superstore, offering a comprehensive review of its sales performance over a four-year period **(2015-2018)**. Identifying the key drivers of growth and potential factors contributing to losses is essential for the store's continuous sales improvement and steady progress. Sales reporting plays a pivotal role in extracting valuable insights and assessing the efficacy of the strategies implemented in the store's operations. This dataset was chosen to analyze and gain insights into the various factors that impact the Superstore's ongoing success.
+
 ![](store.png)
 
 
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
 
-1. # Profitability Performance Analysis:
+1.	 # Profitability Performance Analysis:
     To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
 
 	# Sales Performance Analysis
