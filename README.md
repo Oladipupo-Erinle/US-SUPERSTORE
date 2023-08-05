@@ -20,9 +20,9 @@ A.	**Sales Performance Analysis**
   
 	•	Top and Bottom 10 sales-generating states
 
-B.	# Profit trends across various months by states
+B.	**Profit trends across various months by states**
 
-C.	# Regional Analysis Review
+C.	**Regional Analysis Review**
 
 	•	Sales Performance by region 
  
@@ -50,12 +50,14 @@ C.	# Regional Analysis Review
    
 ## Key Performance Indicators
 
-1.	 Total Sales 
-![](SALES.png)
+1.	 Total Sales
+	 
+   ![](SALES.png)
 
 
-2.	# Profit Margin Ratio
+3.	# Profit Margin Ratio
 One possible Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
+
 To calculate the Profit Margin, you can use the formula:
         Profit Margin = (Profit / sales) * 100
 
