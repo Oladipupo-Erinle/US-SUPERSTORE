@@ -90,13 +90,17 @@ The steps applied are:
 # Sales trends across various months
 •	Dropped the month column in the row field and the sales column in the values field
 •	Applied conditional formatting in other to see at a glance sales of high importance
+
  ![ ](SBMT.png)
  
 •	Used a Pivot chart to clearly visualize the trend with a line chart.
 #Insight derived
 
 ![ ](TSM.png)
-In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
+
+In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. 
+
+From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
 
 # Top and Bottom 10 sales-generating states
 Relying solely on monthly sales performance is insufficient to gauge the financial strength of the store. To achieve our objective, it is essential to analyze sales by location. Therefore, I examined the top and bottom 10 sales-generating states:
