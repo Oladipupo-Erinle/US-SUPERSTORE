@@ -90,11 +90,13 @@ The steps applied are:
 
 # Sales trends across various months
 •	Dropped the month column in the row field and the sales column in the values field
+
 •	Applied conditional formatting in other to see at a glance sales of high importance
 
  ![ ](SBMT.png)
  
 •	Used a Pivot chart to clearly visualize the trend with a line chart.
+
 #Insight derived
 
 ![ ](TSM.png)
