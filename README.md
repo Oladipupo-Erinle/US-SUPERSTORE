@@ -8,20 +8,22 @@ The report centers around a US Superstore, offering a comprehensive review of it
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
 
-1.	 # Profitability Performance Analysis:
-    To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
+1. # Profitability Performance Analysis:
+    To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit,
+    profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and 
+    effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions,
+    and implementing improvements to enhance overall profitability. I focused on the following:
 
-	# Sales Performance Analysis
-        Sales trends across various months
-     
-.	Top and Bottom 10 sales-generating states
+A.	# Sales Performance Analysis
+ 	•	Sales trends across various months
+	•	Top and Bottom 10 sales-generating states
 
-.	Profit trends across various months by states
+B.	# Profit trends across various months by states
+C.	# Regional Analysis Review
+	•	Sales Performance by region 
+	•	Profit performance by region
+	•	Quantity demanded by region
 
-       # Regional Analysis Review
-  	 • Sales Performance by region 
-   	 • Profit performance by region
-         • Quantity demanded by region
 
 
 2. # Means of shipment preferred by customers
@@ -45,7 +47,7 @@ The project intends to answer pertinent business questions that will share more 
 ![](SALES.png)
 
 
-3.	# Profit Margin Ratio
+2.	# Profit Margin Ratio
 One possible Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
 To calculate the Profit Margin, you can use the formula:
         Profit Margin = (Profit / sales) * 100
