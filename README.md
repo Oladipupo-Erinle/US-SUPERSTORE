@@ -166,11 +166,9 @@ Given the contrast in performance between the western and southern regions, it i
 
 Identifying the factors contributing to the western region's success and applying the same to the southern region can help bridge the performance gap and unlock untapped potential 
 
-in that market. 
+in that market. Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales
 
-Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales and profitability 
-
-in the southern region.
+and profitability in the southern region.
 
 2.	# Means of shipment preferred by customers
 	
