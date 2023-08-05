@@ -191,6 +191,7 @@ Conversely, office supplies had the highest demand with **6,026 units** sold but
 it is evident that products within the technology category are relatively more expensive compared to other categories.
 
 	# Sub-category performance
+ 
  ![](SCP.png)
  
 The phone products sub-category, which falls under the technology category, proved to be the top performer, generating the highest sales value of $330,007 from selling 889 units. 
@@ -199,7 +200,9 @@ Chairs closely followed with 617 units sold, generating approximately $328,499 i
 
 In terms of profitability, Copiers emerged as the most profitable product, with a profit of $55,618 from selling 68 units. However, Tables recorded a loss of $17,725.
 
-**Recommendation**: Based on these insights, the focus should be on leveraging the popularity and high-profit margins of phone products and chairs to drive even more sales. 
+**Recommendation**
+
+Based on these insights, the focus should be on leveraging the popularity and high-profit margins of phone products and chairs to drive even more sales. 
 
 For products like **_fasteners_**, which have low sales, consider evaluating their market potential and exploring ways to improve their performance or possibly adjust pricing strategies. 
 
