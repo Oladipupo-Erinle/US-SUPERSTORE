@@ -7,10 +7,11 @@ The report centers around a US Superstore, offering a comprehensive review of it
 
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
-1.	# Profitability Performance Analysis: To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
+1.	# Profitability Performance Analysis:
+    To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
 
 A.	# Sales Performance Analysis
-•	Sales trends across various months
+   •	Sales trends across various months
 
 B.	# Top and Bottom 10 sales-generating states
 
@@ -18,15 +19,15 @@ C.	# Profit trends across various months by states
 
 
 D.	# Regional Analysis Review
-•	Sales Performance by region 
-•	Profit performance by region
-•	Quantity demanded by region
+   •	Sales Performance by region 
+   •	Profit performance by region
+   •	Quantity demanded by region
 
 
-2.	Means of shipment preferred by customers
-3.	Category review
-•	Best performing Category by sales
-•	Best performing Sub-category
+2.	# Means of shipment preferred by customers
+3.	# Category review
+   •	Best performing Category by sales
+   •	Best performing Sub-category
 
 ## Skill/Concepts Demonstrated
 1.	Data Management
@@ -46,7 +47,8 @@ D.	# Regional Analysis Review
 3.	# Profit Margin Ratio
 One possible Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
 To calculate the Profit Margin, you can use the formula:
-Profit Margin = (Profit / sales) * 100
+        Profit Margin = (Profit / sales) * 100
+
 This helps will help assess the efficiency of the business in generating profits from its sales. A higher profit margin indicates that the company is effectively managing costs and pricing strategies, resulting in a higher percentage of revenue being converted into profit. On the other hand, a lower profit margin may indicate areas for improvement in cost control or pricing adjustments. Monitoring the Profit Margin over time can help identify trends and guide strategic decisions to optimize profitability.
 
 ![ ](PM.png)
@@ -95,11 +97,13 @@ California stands out as the top state in generating the highest sales, closely 
 
 Nortth Dakota and West Virginia are the lowest-performing states in terms of sales, generating minimal revenue compared to other regions. Given their consistently low sales rankings, a critical decision must be made regarding the viability of continuing business operations in these states. Considerations should be taken into account to assess whether it is beneficial to continue operating there or explore alternative strategies for improved outcomes. 
 
-# Profit trends across various months by states: Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
+# Profit trends across various months by states:
+
+Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
 To analyze the profit trend across months, I applied the following steps:
-•	Dropped the months’ field in the row side,
-•	Dropped the profit in the values field
-•	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis.
+   •	Dropped the months’ field in the row side,
+   •	Dropped the profit in the values field
+   •	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis.
 
 ![](PBMT.png)
 
@@ -131,7 +135,8 @@ Based on the analysis, one can say that customers show a preference for the stan
 
 In terms of quantity, the technology category had the lowest sales, amounting to 1,847 units. However, it generated the highest sales value of **$836,154**. 
 Conversely, office supplies had the highest demand with **6,026 units** sold but recorded the lowest sales value of $719,047. From these figures, it is evident that products within the technology category are relatively more expensive compared to other categories.
-•	# Sub-category performance
+
+	# Sub-category performance
  ![](SCP.png)
  
 The phone products sub-category, which falls under the technology category, proved to be the top performer, generating the highest sales value of $330,007 from selling 889 units. Chairs closely followed with 617 units sold, generating approximately $328,499 in sales. On the other end, fasteners were the lowest sales generator, selling 217 units and amounting to $3,024 in revenue.
