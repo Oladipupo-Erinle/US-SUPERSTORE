@@ -15,13 +15,18 @@ The project intends to answer pertinent business questions that will share more 
     and implementing improvements to enhance overall profitability. I focused on the following:
 
 A.	# Sales Performance Analysis
+
  	•	Sales trends across various months
+  
 	•	Top and Bottom 10 sales-generating states
 
 B.	# Profit trends across various months by states
 C.	# Regional Analysis Review
+
 	•	Sales Performance by region 
+ 
 	•	Profit performance by region
+ 
 	•	Quantity demanded by region
 
 
@@ -30,6 +35,7 @@ C.	# Regional Analysis Review
    
 3. # Category review
   	 •	Best performing Category by sales
+   
    	 •	Best performing Sub-category
 
 ## Skill/Concepts Demonstrated
