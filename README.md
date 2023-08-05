@@ -47,15 +47,28 @@ The steps applied are:
 #Sales trends across various months
 •	Dropped the month column in the row field and the sales column in the values field
 •	Applied conditional formatting in other to see at a glance sales of high importance
- ![ ](SBMT.PNG)
+
+ ![ ](SBMT.png)
+ 
 •	Used a Pivot chart to clearly visualize the trend with a line chart.
+
+
 #Insight derived
+
 ![ ](TSM.png)
+
 In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
+
 #Top and Bottom 10 sales-generating states
+
 Relying solely on monthly sales performance is insufficient to gauge the financial strength of the store. To achieve our objective, it is essential to analyze sales by location. Therefore, I examined the top and bottom 10 sales-generating states:
-![](T10TS)
+
+![](T10TS.png)
+
+
 #Insight derived
+
+
 ![](T10S)
 California stands out as the top state in generating the highest sales, closely followed by New York. In contrast, Virginia ranks lowest among the top 10 states in terms of sales. To address the considerable gap between the top two states, it is essential to prioritize efforts on enhancing sales in Texas, Washington, Pennsylvania, and Florida. By concentrating on these states, we can aim for a more equitable distribution of sales across our targeted regions.
 
