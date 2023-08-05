@@ -8,18 +8,23 @@ The project intends to answer pertinent business questions that will share more 
 1.	Sales Performance Analysis
 •	Sales trends across various months-This will be done with the use of a table and line chart.
 •	Top and Bottom 10 sales-generating states- This will be done with the use of a column chart
-2.	Profitability Performance Analysis
+
+3.	Profitability Performance Analysis
 •	Profit trends across various months by states-This will be done with the use of a table and line chart.
-3.	 Regional Analysis Review
+
+5.	 Regional Analysis Review
 •	Sales Performance by region review
 •	Demand by region- region with high and low demand
-4.	Means of shipment preferred by customers
-5.	Category review
+
+7.	Means of shipment preferred by customers
+   
+9.	Category review
 •	Best performing Category by sales
 •	Best performing Sub-category
-6.	Top 10 cities by Demand/Purchase
+10.	Top 10 cities by Demand/Purchase
+    
 
-7.	
+12.	
 #Skill/Concepts Demonstrated
 1.	Data Management
 2.	Data Manipulation
@@ -28,10 +33,12 @@ The project intends to answer pertinent business questions that will share more 
 5.	Pivot chart- Visualization
 6.	Conditional formatting
 7.	Project documentation
-8.	
+   
 #Dataset
 Give a brief overview of the dataset you’re working on 
+
 ##Data Cleaning 
+
 ##Business Solutions and Insights Generated
 The application of pivot tables and charts served as a useful means of manipulating data to derive meaningful insights that addressed the Business problems that are critical to the management thereby giving clarity and solutions to them. The following business problems were addressed:
 1.	#Sales Performance Analysis
