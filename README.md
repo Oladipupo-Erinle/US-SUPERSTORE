@@ -6,18 +6,18 @@ The report centers around a US Superstore, offering a comprehensive review of it
 
 ## Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
+
 1. # Profitability Performance Analysis:
     To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
 
-.	Sales Performance Analysis*
-   		Sales trends across various months
+	# Sales Performance Analysis
+        Sales trends across various months
+     
+.	Top and Bottom 10 sales-generating states
 
-B. # Top and Bottom 10 sales-generating states
+.	Profit trends across various months by states
 
-C. # Profit trends across various months by states
-
-
-D. # Regional Analysis Review
+       # Regional Analysis Review
   	 • Sales Performance by region 
    	 • Profit performance by region
          • Quantity demanded by region
@@ -25,7 +25,7 @@ D. # Regional Analysis Review
 
 2. # Means of shipment preferred by customers
    
-3.	# Category review
+3. # Category review
   	 •	Best performing Category by sales
    	 •	Best performing Sub-category
 
@@ -65,7 +65,7 @@ The application of pivot tables and charts served as a useful means of manipulat
 
 1.	# Profitability Performance Analysis
 
-A.	# Sales Performance Analysis
+ **Sales Performance Analysis**
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions. I focused on deriving sales trends across months, the top and bottom 10 sales-generating states
 The steps applied are:
 
