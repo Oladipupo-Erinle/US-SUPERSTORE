@@ -9,7 +9,7 @@ The project intends to answer pertinent business questions that will share more 
 1. # Profitability Performance Analysis:
     To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit, profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions, and implementing improvements to enhance overall profitability. I focused on the following:
 
-*Sales Performance Analysis*
+.	Sales Performance Analysis*
    		Sales trends across various months
 
 B. # Top and Bottom 10 sales-generating states
