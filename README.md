@@ -97,7 +97,7 @@ The steps applied are:
  
 •	Used a Pivot chart to clearly visualize the trend with a line chart.
 
-#Insight derived
+# Insight derived
 
 ![ ](TSM.png)
 
@@ -116,6 +116,7 @@ Therefore, I examined the top and bottom 10 sales-generating states:
 # Insight derived
 
 ![](T10S)
+
 California stands out as the top state in generating the highest sales, closely followed by New York. In contrast, Virginia ranks lowest among the top 10 states in terms of sales.
 
 To address the considerable gap between the top two states, it is essential to prioritize efforts on enhancing sales in Texas, Washington, Pennsylvania, and Florida. 
@@ -125,6 +126,7 @@ By concentrating on these states, we can aim for a more equitable distribution o
 ![](BST.png)
 
 # Insight derived
+
 ![](B10S.png)
 
 Nortth Dakota and West Virginia are the lowest-performing states in terms of sales, generating minimal revenue compared to other regions. 
@@ -139,7 +141,9 @@ Profit trend analysis is vital to uncover fluctuations and patterns in profits o
 
 To analyze the profit trend across months, I applied the following steps:
    •	Dropped the months’ field in the row side,
+   
    •	Dropped the profit in the values field
+   
    •	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis.
 
 ![](PBMT.png)
