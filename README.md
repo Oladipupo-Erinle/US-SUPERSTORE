@@ -127,7 +127,7 @@ In terms of sales, November achieved the highest sales of $352,461, closely foll
 
 From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
 
-![ }(TPM.png)
+![ ](TPM.png)
 
 # Top and Bottom 10 sales-generating states
 
