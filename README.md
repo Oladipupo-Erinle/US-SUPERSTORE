@@ -9,8 +9,8 @@ This report is an extensive analysis of the performance of US Superstore, presen
 # Problem statement
 The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
 
-1. # Profitability Performance Analysis:
-    To perform a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit,
+1.  # Profitability Performance Analysis
+    To carry out a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit,
     profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and 
     effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions,
     and implementing improvements to enhance overall profitability. I focused on the following:
@@ -25,7 +25,7 @@ B.	**Profit trends across various months by states**
 
 C.	**Regional Analysis Review**
 
-	•	Sales Performance by region 
+	•	Sales performance by region 
  
 	•	Profit performance by region
  
@@ -33,9 +33,17 @@ C.	**Regional Analysis Review**
 
 
 
-2. # Means of shipment preferred by customers
+2. # Shipment preferred by customers:
+
+ The report extensively explored the preferred shipment modes offered by the Superstore, including first class, second class, standard, and same-day shipment.
+ 
+This analysis is essential to guide the Superstore in understanding which areas to prioritize and which ones need improvement. By knowing the customers' shipment preferences, 
+
+the Superstore can focus its efforts on enhancing customer satisfaction and optimizing its shipping services accordingly. This data-driven approach can help the Superstore 
+
+allocate resources effectively and tailor its shipping options to better align with customer demands and expectations.
    
-3. # Category review
+4. # Category review
   	 •	Best performing Category by sales
    
    	 •	Best performing Sub-category
