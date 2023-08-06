@@ -110,6 +110,7 @@ I focused on deriving **_sales trends across months, the top and bottom 10 sales
 The steps applied are:
 
 # Sales trends across various months
+
 •	Dropped the month column in the row field and the sales column in the values field
 
 •	Applied conditional formatting in other to see at a glance sales of high importance
@@ -125,6 +126,8 @@ The steps applied are:
 In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. 
 
 From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
+
+![ }(TPM.png)
 
 # Top and Bottom 10 sales-generating states
 
@@ -161,6 +164,7 @@ Considerations should be taken into account to assess whether it is beneficial t
 Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
 
 To analyze the profit trend across months, I applied the following steps:
+
    •	Dropped the months’ field in the row side,
    
    •	Dropped the profit in the values field
