@@ -180,8 +180,12 @@ Considerations should be taken into account to assess whether it is beneficial t
    •	Dropped the state field in the row side,
    
    •	Dropped the profit in the values field
+
+# Top 10 States by Profit
    
 ![](T10P.png)
+
+# Bottom 10 States by Profit
 
 ![ ](B10P.png)
 # Insight derived
