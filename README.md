@@ -201,7 +201,7 @@ On the other hand, they appear less eager to opt for the same-day mode, using it
 
 3.	# Category review
 
-•	Best performing Category by sales and quantity
+• Best performing Category by sales and quantity
 
 ![](CP.png)
 
