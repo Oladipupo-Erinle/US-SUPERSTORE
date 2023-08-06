@@ -101,7 +101,7 @@ The derived insights provided clarity and actionable solutions for the following
 
 1.	# Profitability Performance Analysis
 
- *Sales Performance Analysis*
+ **Sales Performance Analysis**
  
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
 
