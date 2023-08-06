@@ -127,9 +127,15 @@ From April to July, sales remained consistent, but there was an improvement star
 
 # Profit trend across various months
 
-•	Dropped the month column in the row field and the profit column in the values field
+Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
 
-•	Used a Pivot chart to clearly visualize the trend with a line chart.
+To analyze the profit trend across months, I applied the following steps:
+
+   •	Dropped the months’ field in the row side,
+   
+   •	Dropped the profit in the values field
+   
+   •	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis
 
 # Insight derived
 
@@ -167,19 +173,17 @@ Given their consistently low sales rankings, a critical decision must be made re
 
 Considerations should be taken into account to assess whether it is beneficial to continue operating there or explore alternative strategies for improved outcomes. 
 
-# Profit trends across various months by states:
+# Profit trends by states:
 
-Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
+ I applied the following steps:
 
-To analyze the profit trend across months, I applied the following steps:
-
-   •	Dropped the months’ field in the row side,
+   •	Dropped the state field in the row side,
    
    •	Dropped the profit in the values field
    
    •	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis.
 
-![](PBMT.png)
+![](T10P.png)
 
 # Insight derived
 
