@@ -105,7 +105,7 @@ The derived insights provided clarity and actionable solutions for the following
  
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
 
-I focused on deriving sales trends across months, the top and bottom 10 sales-generating states
+I focused on deriving **_sales trends across months, the top and bottom 10 sales-generating states_**
 
 The steps applied are:
 
