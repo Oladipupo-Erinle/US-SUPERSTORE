@@ -188,7 +188,6 @@ Considerations should be taken into account to assess whether it is beneficial t
 # Bottom 10 States by Profit
 
 ![ ](B10P.png)
-# Insight derived
 
 
 # Regional Analysis Review
@@ -201,15 +200,11 @@ it boasts the highest profit margin of 37.86%. In contrast, the southern region 
 
 Given the contrast in performance between the western and southern regions, it is advisable to focus on strategies aimed at improving sales and profitability in the southern region.
 
-Identifying the factors contributing to the western region's success and applying the same to the southern region can help bridge the performance gap and unlock untapped potential 
-
-in that market. Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales
-
-and profitability in the southern region.
+Identifying the factors contributing to the western region's success and applying the same to the southern region can help bridge the performance gap and unlock untapped potential  in that market. Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales and profitability in the southern region.
 
 2.	# Means of shipment preferred by customers
 	
-![](SHIPMODE.png)
+![ ](SHIPMODE.png)
 
 Based on the analysis, one can say that customers show a preference for the standard class mode of shipment, with 5,968 quantities delivered through this method. 
 
