@@ -52,6 +52,7 @@ c. Technology: This category consists of the sub-categories Copiers, Machines, a
 Analyzing these categories is of utmost importance as it provides valuable insights to assist the Superstore in decision-making. The analysis aimed to identify the following:
 
 • The best-performing category based on sales.
+
 • The best-performing sub-category within the Superstore.
 
 By understanding the performance of these categories and sub-categories, the Superstore can make data-driven decisions, allocate resources effectively, and focus on areas that drive maximum sales and growth. This analysis also helps to identify potential opportunities for improvement and strategic adjustments to enhance overall performance.
