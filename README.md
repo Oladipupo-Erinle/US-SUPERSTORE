@@ -39,7 +39,7 @@ C.	**Regional Analysis Review**
  
 This analysis is essential to guide the Superstore in understanding which areas to prioritize and which ones need improvement. By knowing the customers' shipment preferences,  the Superstore can focus its efforts on enhancing customer satisfaction and optimizing its shipping services accordingly. This data-driven approach can help the Superstore allocate resources effectively and tailor its shipping options to better align with customer demands and expectations.
    
-4. # Category review
+3. # Category review
   	 •	Best performing Category by sales
    
    	 •	Best performing Sub-category
