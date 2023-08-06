@@ -40,9 +40,22 @@ C.	**Regional Analysis Review**
 This analysis is essential to guide the Superstore in understanding which areas to prioritize and which ones need improvement. By knowing the customers' shipment preferences,  the Superstore can focus its efforts on enhancing customer satisfaction and optimizing its shipping services accordingly. This data-driven approach can help the Superstore allocate resources effectively and tailor its shipping options to better align with customer demands and expectations.
    
 3. # Category review
-  	 •	Best performing Category by sales
    
-   	 •	Best performing Sub-category
+ The Superstore comprises three distinct categories, each containing various sub-categories:
+ 
+a. Furniture: This category includes Chairs, Furnishing, and Tables.
+
+b. Office Supplies: The sub-categories within this category are Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, and Supplies.
+
+c. Technology: This category consists of the sub-categories Copiers, Machines, and Phones.
+
+Analyzing these categories is of utmost importance as it provides valuable insights to assist the Superstore in decision-making. The analysis aimed to identify the following:
+
+• The best-performing category based on sales.
+• The best-performing sub-category within the Superstore.
+
+By understanding the performance of these categories and sub-categories, the Superstore can make data-driven decisions, allocate resources effectively, and focus on areas that drive maximum sales and growth. This analysis also helps to identify potential opportunities for improvement and strategic adjustments to enhance overall performance.
+
 
 ## Skill/Concepts Demonstrated
 1.	Data Management
