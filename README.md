@@ -93,9 +93,11 @@ This helps will help assess the efficiency of the business in generating profits
 Sales Growth Rate = ((Current Period Sales - Previous Period Sales) / Previous Period Sales) * 100
                   **($733,215-$484,247)/$484,247 = 51%**
 
-## Business Solutions and Insights Generated
+## Business solutions and insights derived
 
-The application of pivot tables and charts served as a useful means of manipulating data to derive meaningful insights that addressed the Business problems that are critical to the management thereby giving clarity and solutions to them. The following business problems were addressed:
+Utilizing pivot tables and charts played a pivotal role in analyzing and transforming data, leading to valuable insights that directly tackled crucial business problems faced by the management.
+
+The derived insights provided clarity and actionable solutions for the following key business challenges:
 
 1.	# Profitability Performance Analysis
 
