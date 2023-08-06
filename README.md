@@ -221,7 +221,7 @@ Chairs closely followed with 617 units sold, generating approximately $328,499 i
 
 In terms of profitability, Copiers emerged as the most profitable product, with a profit of $55,618 from selling 68 units. However, Tables recorded a loss of $17,725.
 
-**Recommendation**
+**Recommendation on category review**
 
 Based on these insights, the focus should be on leveraging the popularity and high-profit margins of phone products and chairs to drive even more sales. 
 
