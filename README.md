@@ -240,3 +240,10 @@ For products like **_fasteners_**, which have low sales, consider evaluating the
 
 Additionally, a thorough analysis of Tables' performance is necessary to identify the reasons behind the loss and implement appropriate measures to turn it into a profitable product.
 
+**Conclusion and Recommendation**
+
+1. To enhance sales and boost profits during the months of April to July, it is advisable to implement additional promotions and discounts.
+   
+2. To investigate the underlying reasons for low sales in states such as North Dakota and West Virginia, a thorough examination should be conducted. Despite **Virginia** being among the top 5 profit-generating states with a substantial margin of **$18,598**, it still experiences low sales. This presents an opportunity to increase sales in these regions by implementing more promotions and employing other strategic approaches.
+
+
