@@ -113,8 +113,6 @@ The steps applied are:
 
 •	Dropped the month column in the row field and the sales column in the values field
 
-•	Applied conditional formatting in other to see at a glance sales of high importance
-
  ![ ](SBMT.png)
  
 •	Used a Pivot chart to clearly visualize the trend with a line chart.
@@ -126,6 +124,16 @@ The steps applied are:
 In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. 
 
 From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
+
+# Profit trend across various months
+
+•	Dropped the month column in the row field and the profit column in the values field
+
+•	Used a Pivot chart to clearly visualize the trend with a line chart.
+
+# Insight derived
+
+Profit trends across different months indicate that December recorded the highest profit of $43,369, while January marked the lowest profit at $9,134. April and July experienced a decline in profits, whereas August showed signs of recovery.
 
 ![ ](TPM.png)
 
