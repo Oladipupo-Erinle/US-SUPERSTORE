@@ -21,7 +21,7 @@ A.	**Sales Performance Analysis**
   
 	•	Top and Bottom 10 sales-generating states
 
-B.	**Profit trends across various months by states**
+B.	**Profit trends across various states**
 
 C.	**Regional Analysis Review**
 
@@ -181,15 +181,11 @@ Considerations should be taken into account to assess whether it is beneficial t
    
    •	Dropped the profit in the values field
    
-   •	Used a line chart to visualize with months represented on the x-axis and profit values on the y-axis.
-
 ![](T10P.png)
 
+![ ](B10P)
 # Insight derived
 
-![](TPM.png)
-
-December and September are the most profitable months, while April sees a sharp decline. July shows signs of recovery. To address low-profit months like April, we can consider implementing discount sales to boost revenue
 
 # Regional Analysis Review
 
