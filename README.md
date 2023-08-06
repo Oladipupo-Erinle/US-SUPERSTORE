@@ -143,7 +143,7 @@ Relying solely on monthly sales performance is insufficient to gauge the financi
 
 Therefore, I examined the top and bottom 10 sales-generating states:
 
-![ ](T10TS)
+ ![ ](T10TS.png)
 
 # Insight derived
 
