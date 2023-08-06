@@ -183,7 +183,7 @@ Considerations should be taken into account to assess whether it is beneficial t
    
 ![](T10P.png)
 
-![ ](B10P)
+![ ](B10P.png)
 # Insight derived
 
 
