@@ -1,19 +1,20 @@
 ## US-SUPERSTORE
 # Introduction
-This report is an extensive analysis of the performance of US Superstore, presenting a thorough analysis of its sales performance from 2014 to 2018. It is crucial to identify the main growth drivers and potential factors that may lead to losses to ensure the store's consistent sales improvement and steady advancement. Sales reporting plays a pivotal role in extracting valuable insights and evaluating the effectiveness of the store's operational strategies. The selected dataset allows for an in-depth analysis to gain insights into the diverse factors influencing the ongoing success of the Superstore.
+This report is an extensive analysis of the performance of US Superstore, presenting a thorough analysis of its sales performance from 2014 to 2018. The report identifies crucial main growth drivers and potential factors that may lead to losses thereby ensuring the store's consistent sales improvement and steady advancement. Sales reporting plays a pivotal role in extracting valuable insights and evaluating the effectiveness of the store's operational strategies. The selected dataset allows for an in-depth analysis to gain insights into the diverse factors influencing the ongoing success of the Superstore.
 
 
 ![](store.png)
 
 
 # Problem statement
-The project intends to answer pertinent business questions that will share more light on the areas that US Superstore management will be interested in 
+The project intends to answer pertinent business questions which will share more light on the areas that US Superstore management should focus on.
 
 1.  # Profitability Performance Analysis
+   
     To carry out a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit,
-    profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, you can gain insights into the financial health and 
-    effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, making informed decisions,
-    and implementing improvements to enhance overall profitability. I focused on the following:
+    profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, Us Superstore can gain insights into the financial health and 
+    effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, which aid making informed decisions,
+    and implementing strategies to enhance overall profitability. I focused on the following:
 
 A.	**Sales Performance Analysis**
 
@@ -75,12 +76,12 @@ By understanding the performance of these categories and sub-categories, the Sup
 
 
 2.	# Profit Margin Ratio
-One possible Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
+One important Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
 
 To calculate the Profit Margin, you can use the formula:
         Profit Margin = (Profit / sales) * 100
 
-This helps will help assess the efficiency of the business in generating profits from its sales. A higher profit margin indicates that the company is effectively managing costs and pricing strategies, resulting in a higher percentage of revenue being converted into profit. On the other hand, a lower profit margin may indicate areas for improvement in cost control or pricing adjustments. Monitoring the Profit Margin over time can help identify trends and guide strategic decisions to optimize profitability.
+This KPI will help assess the efficiency of the business in generating profits from its sales. A higher profit margin indicates that the company is effectively managing costs and pricing strategies, resulting in a higher percentage of revenue being converted into profit. On the other hand, a lower profit margin may indicate areas for improvement in cost control or pricing adjustments. Monitoring the Profit Margin over time can help identify trends and guide strategic decisions to optimize profitability.
 
 ![ ](PM.png)
 
@@ -95,7 +96,7 @@ Sales Growth Rate = ((Current Period Sales - Previous Period Sales) / Previous P
 
 ## Business solutions and insights derived
 
-Utilizing pivot tables and charts played a pivotal role in analyzing and transforming data, leading to valuable insights that directly tackled crucial business problems faced by the management.
+Utilizing pivot tables and charts played a pivotal role in analyzing and transforming data, leading to valuable insights that directly tackled crucial business problems faced by Us Superstore.
 
 The derived insights provided clarity and actionable solutions for the following key business challenges:
 
@@ -105,7 +106,7 @@ The derived insights provided clarity and actionable solutions for the following
  
 It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
 
-I focused on deriving **_sales trends across months, the top and bottom 10 sales-generating states_**
+The report focused on deriving **_sales trends across months, the top and bottom 10 sales-generating states_**
 
 The steps applied are:
 
@@ -127,9 +128,9 @@ From April to July, sales remained consistent, but there was an improvement star
 
 # Profit trend across various months
 
-Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing us to identify any trends, seasonality, growth, or decline across different months
+Profit trend analysis is vital to uncover fluctuations and patterns in profits over time, allowing the superstore to identify any trends, seasonality, growth, or decline across different months
 
-To analyze the profit trend across months, I applied the following steps:
+To analyze the profit trend across months, The following steps were applied:
 
    •	Dropped the months’ field in the row side,
    
