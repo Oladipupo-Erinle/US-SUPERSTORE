@@ -1,22 +1,22 @@
-## US-SUPERSTORE
+## SUPERSTORE
 # Introduction
-This report is an extensive analysis of the performance of US Superstore, presenting a thorough analysis of its sales performance from 2014 to 2018. The report identifies crucial main growth drivers and potential factors that may lead to losses thereby ensuring the store's consistent sales improvement and steady advancement. Sales reporting plays a pivotal role in extracting valuable insights and evaluating the effectiveness of the store's operational strategies. The selected dataset allows for an in-depth analysis to gain insights into the diverse factors influencing the ongoing success of the Superstore.
+This report is an extensive analysis of the performance of Superstore, presenting a thorough analysis of its sales performance from **_2014 to 2018_**. The report identifies crucial main growth drivers and potential factors that may lead to losses thereby ensuring the store's consistent sales improvement and steady advancement. Sales reporting plays a pivotal role in extracting valuable insights and evaluating the effectiveness of the store's operational strategies. The selected dataset allows for a comprehensive analysis, facilitating the extraction of in insights into the diverse factors influencing the ongoing success of the Superstore.
 
 
 ![](store.png)
 
 
 # Problem statement
-The project intends to answer pertinent business questions which will share more light on the areas that US Superstore management should focus on.
+The project intends to answer pertinent business questions which will share more light on the areas that Superstore should focus on.
 
 1.  # Profitability Performance Analysis
    
     To carry out a profitability performance analysis, it is essential to examine various financial metrics, such as revenue, expenses, gross profit, net profit,
-    profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, Us Superstore can gain insights into the financial health and 
-    effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, which aid making informed decisions,
+    profit margins, return on investment (ROI), and other relevant indicators. By analyzing these metrics, Superstore can gain insights into the financial health and 
+    effectiveness of the business's operations and strategies. This analysis helps in identifying areas of strength and weakness, which aid in making informed decisions,
     and implementing strategies to enhance overall profitability. I focused on the following:
 
-A.	**Sales Performance Analysis**
+A.	**Analysis Of Sales Performance**
 
  	•	Sales trends across various months
   
@@ -33,22 +33,21 @@ C.	**Regional Analysis Review**
 	•	Quantity demanded by region
 
 
-
 2. # Shipment preferred by customers:
-
- The report extensively explored the preferred shipment modes offered by the Superstore, including first class,second-classs, standard, and same-day shipment.
+   
+ The report extensively explored the preferred shipment modes offered by Superstore including first-class second-class, standard, and same-day shipment.
  
-This analysis is essential to guide the Superstore in understanding which areas to prioritize and which ones need improvement. By knowing the customers' shipment preferences,  the Superstore can focus its efforts on enhancing customer satisfaction and optimizing its shipping services accordingly. This data-driven approach can help the Superstore allocate resources effectively and tailor its shipping options to better align with customer demands and expectations.
+This analysis is essential to guide the Superstore in understanding which areas to prioritize and which ones need improvement. By knowing the customers' shipment preferences,  the Superstore can focus its efforts on enhancing customer satisfaction and optimizing its shipping services accordingly. This data-driven approach can help Superstore allocate resources effectively and tailor its shipping options to better align with customer demands and expectations.
    
 3. # Category review
    
- The Superstore comprises three distinct categories, each containing various sub-categories:
+ Superstore comprises three distinct categories, each containing various sub-categories:
  
-a. Furniture: This category includes Chairs, Furnishing, and Tables.
+A. Furniture: This category includes Chairs, Furnishing, and Tables.
 
-b. Office Supplies: The sub-categories within this category are Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, and Supplies.
+B. Office Supplies: The sub-categories within this category are Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, and Supplies.
 
-c. Technology: This category consists of the sub-categories Copiers, Machines, and Phones.
+C. Technology: This category consists of the sub-categories Copiers, Machines, and Phones.
 
 Analyzing these categories is of utmost importance as it provides valuable insights to assist the Superstore in decision-making. The analysis aimed to identify the following:
 
@@ -56,7 +55,7 @@ Analyzing these categories is of utmost importance as it provides valuable insig
 
 • The best-performing sub-category within the Superstore.
 
-By understanding the performance of these categories and sub-categories, the Superstore can make data-driven decisions, allocate resources effectively, and focus on areas that drive maximum sales and growth. This analysis also helps to identify potential opportunities for improvement and strategic adjustments to enhance overall performance.
+By understanding the performance of these categories and sub-categories, Superstore can make data-driven decisions, allocate resources effectively, and focus on areas that drive maximum sales and growth. This analysis also helps to identify potential opportunities for improvement and strategic adjustments to enhance overall performance.
 
 
 ## Skill/Concepts Demonstrated
@@ -71,11 +70,12 @@ By understanding the performance of these categories and sub-categories, the Sup
 ## Key Performance Indicators
 
 1.	 Total Sales
-	 
-   ![](SALES.png)
 
+ ![](SALES.png)
 
-2.	# Profit Margin Ratio
+**_The table shows that Superstore generated sales of $2,2297,201 for the 4 years covered in this report_**
+
+3.	# Profit Margin Ratio
 One important Key Performance Indicator (KPI) that can be derived from this dataset is the **Profit Margin**
 
 To calculate the Profit Margin, you can use the formula:
@@ -93,6 +93,8 @@ This KPI will help assess the efficiency of the business in generating profits f
 	
 Sales Growth Rate = ((Current Period Sales - Previous Period Sales) / Previous Period Sales) * 100
                   **($733,215-$484,247)/$484,247 = 51%**
+  
+  Sales of superstore grew by 53% for the period covered
 
 ## Business solutions and insights derived
 
@@ -102,9 +104,9 @@ The derived insights provided clarity and actionable solutions for the following
 
 1.	# Profitability Performance Analysis
 
- **Sales Performance Analysis**
+ **Analysis of Sales Performance**
  
-It is pertinent to analyze how the store performed across various months in other to detect peak and off periods, Months to engage in promotions.
+It is pertinent to analyze how superstore performed across various months in other to detect peak and off periods, Months to engage in promotions, sales team performance, product anaysis.
 
 The report focused on deriving **_sales trends across months, the top and bottom 10 sales-generating states_**
 
@@ -122,7 +124,7 @@ The steps applied are:
 
 ![ ](TSM.png)
 
-In terms of sales, November achieved the highest sales of $352,461, closely followed by December’s $325,294, whereas February saw the lowest performance recording a sales figure of $59,751. 
+In terms of sales, November achieved the highest sales of **_$352,461_**, closely followed by December’s **_$325,294_**, whereas February saw the lowest performance recording a sales figure of **_$59,751_**. 
 
 From April to July, sales remained consistent, but there was an improvement starting in August. However, there was a slight decline in sales during October.
 
@@ -140,7 +142,7 @@ To analyze the profit trend across months, The following steps were applied:
 
 # Insight derived
 
-Profit trends across different months indicate that December recorded the highest profit of $43,369, while January marked the lowest profit at $9,134. April and July experienced a decline in profits, whereas August showed signs of recovery.
+Profit trends across different months indicate that December recorded the highest profit of **_$43,369_**, while January marked the lowest profit at **_$9,134_**. April and July experienced a decline in profits, whereas August showed signs of recovery.
 
 ![ ](TPM.png)
 
@@ -197,11 +199,11 @@ Considerations should be taken into account to assess whether it is beneficial t
 
 During the analyzed period, the western region of the country demonstrated the highest sales, totaling $725,485, which accounts for 31.5% of the total sales generated. Moreover, 
 
-it boasts the highest profit margin of 37.86%. In contrast, the southern region lags significantly behind, with both sales and profit at least 2 times lower than the western region.
+it boasts the highest profit margin of **37.86%**. In contrast, the southern region lags significantly behind, with both sales and profit at least 2 times lower than the western region.
 
 Given the contrast in performance between the western and southern regions, it is advisable to focus on strategies aimed at improving sales and profitability in the southern region.
 
-Identifying the factors contributing to the western region's success and applying the same to the southern region can help bridge the performance gap and unlock untapped potential  in that market. Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales and profitability in the southern region.
+Identifying the factors contributing to the western region's success and applying the same to the southern region can help bridge the performance gap and unlock untapped potential in that market. Also, exploring targeted marketing initiatives, adjusting pricing strategies, and enhancing customer engagement efforts can play a pivotal role in boosting sales and profitability in the southern region.
 
 2.	# Means of shipment preferred by customers
 	
@@ -217,7 +219,7 @@ On the other hand, they appear less eager to opt for the same-day mode, using it
 
 ![](CP.png)
 
-In terms of quantity, the technology category had the lowest sales, amounting to 1,847 units. However, it generated the highest sales value of **$836,154**. 
+In terms of quantity, the technology category had the lowest sales, amounting to **1,847 units**. However, it generated the highest sales value of **$836,154**. 
 
 Conversely, office supplies had the highest demand with **6,026 units** sold but recorded the lowest sales value of $719,047. From these figures, 
 
